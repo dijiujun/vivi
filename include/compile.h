@@ -1,0 +1,6 @@
+#define UTS_VERSION "#0.1.4 Mon Oct 21 16:25:07 CST 2019"
+#define VIVI_COMPILE_TIME "16:25:07"
+#define VIVI_COMPILE_BY "jiujun.di"
+#define VIVI_COMPILE_HOST "dijj-VirtualBox"
+#define VIVI_COMPILE_DOMAIN ""
+#define VIVI_COMPILER "gcc version 2.95.3 20010315 (release)"
